@@ -19,7 +19,7 @@ ChatApp is an End-to-End Encrypted Chat Application with Intrusion Detection whi
 - **User-Friendly Interface**: ChatApp is designed with a clean and intuitive user interface for an exceptional user experience.
 
 ## Technologies Used
- HTML, CSS, JavaScript, Node.js, React.js, CryptoJS, Python, Flask, Firebase, GCP.
+ HTML, CSS, SCSS, JavaScript, Node.js, Vite.js, React.js, CryptoJS, Python, Flask, Firebase, GCP, JSON, REST APIs.
 ## Screenshots
 
 ![Screenshot 1](Screenshots/loginChatApp.png)
